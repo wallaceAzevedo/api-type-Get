@@ -1,0 +1,7 @@
+{
+    "ping": {
+      "data": [
+        { "message": "pong", "status_code": 200 }
+      ]
+    }
+  }

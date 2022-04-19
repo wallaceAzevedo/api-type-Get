@@ -1,0 +1,14 @@
+Como criar um endpoint GET no backend que retorna {"message": "pong", "status_code": 200 }
+
+$ npm init -y
+
+para rodar esse app # `npm start`
+
+./api/ => Contém nosso código da api.
+./api/controllers/ => Contém todos controladores da api.
+./api/data/ => Contém nossos mocks.
+./api/routes/ => Contém as rotas da api.
+./config/ => Contém as configurações do servidor.
+./package.json => Listagem das dependências do projeto.
+
+
